@@ -7,7 +7,7 @@
 
 Примечание: Поместить файл состояния company.xml в директории d:\ либо менять константу stateFileName в файлах:
 \dz1\dz\Program.cs
-\dz1\WebControlPanel\Controllers\EmployeeController.cs
+\dz1\WebPanel\Controllers\EmployeesController.cs
 
 
 Для разработки классов выбран вариант А.
