@@ -19,10 +19,10 @@ namespace dz
 
             var emp = new Employee()
             {
-                FirstName = "Musab",
+                FirstName = "Mus'ab",
                 LastName = "Umayr",
                 Post = "Помощник ...",
-                BirthDay = new DateTime(1989, 5, 23),
+                BirthDay = new DateTime(1990, 5, 23),
                 isHead = false,
             };
 

@@ -1,0 +1,56 @@
+﻿@{
+    ViewBag.Title = "Список сотрудников";
+}
+
+<h2>Список сотрудников</h2>
+
+<table class="table">
+    <tr>
+        <th>
+            Имя
+        </th>
+        <th>
+            Фамилия
+        </th>
+        <th>
+            Должность
+        </th>
+        <th>
+            День рождения
+        </th>
+        <th>
+            Признак руководителя
+        </th>
+        <th></th>
+    </tr>
+
+    @{
+        if (ViewBag.Employees != null)
+        {
+            foreach (var item in ViewBag.Employees)
+            {
+                <tr>
+                    <td>
+                        @item.FirstName
+                    </td>
+                    <td>
+                        @item.LastName
+                    </td>
+                    <td>
+                        @item.Post
+                    </td>
+                    <td>
+                        @item.BirthDay
+                    </td>
+                    <td>
+                        @item.isHead
+                    </td>
+
+
+                </tr>
+            }
+        }
+    }
+
+
+</table>

@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30503.244
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dz", "dz\dz.csproj", "{0E8FCA4F-9154-43F6-9CD9-56C796801A6A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebControlPanel", "WebControlPanel\WebControlPanel.csproj", "{6FB7CC2F-5D08-417D-8FB4-3CB2D80FCF07}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebPanel", "WebPanel\WebPanel.csproj", "{69498F29-B537-4D72-BAC7-A270C34BFA11}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{0E8FCA4F-9154-43F6-9CD9-56C796801A6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0E8FCA4F-9154-43F6-9CD9-56C796801A6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0E8FCA4F-9154-43F6-9CD9-56C796801A6A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{6FB7CC2F-5D08-417D-8FB4-3CB2D80FCF07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6FB7CC2F-5D08-417D-8FB4-3CB2D80FCF07}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6FB7CC2F-5D08-417D-8FB4-3CB2D80FCF07}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6FB7CC2F-5D08-417D-8FB4-3CB2D80FCF07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69498F29-B537-4D72-BAC7-A270C34BFA11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69498F29-B537-4D72-BAC7-A270C34BFA11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69498F29-B537-4D72-BAC7-A270C34BFA11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69498F29-B537-4D72-BAC7-A270C34BFA11}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
