@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Company xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Subdivisions SubdivisionName="First">
+    <Employees FirstName="Ali" LastName="Saad" Post="123" BirthDay="1989-05-23T00:00:00" isHead="true" />
+  </Subdivisions>
+  <Subdivisions SubdivisionName="Second">
+    <Employees FirstName="Ali" LastName="Banat" Post="345" BirthDay="1984-05-23T00:00:00" isHead="true" />
+  </Subdivisions>
+  <Subdivisions SubdivisionName="First">
+    <Employees FirstName="Musab" LastName="Umayr" Post="Помощник ..." BirthDay="1989-05-23T00:00:00" isHead="false" />
+  </Subdivisions>
+</Company>

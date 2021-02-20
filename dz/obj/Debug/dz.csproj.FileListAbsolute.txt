@@ -1,0 +1,7 @@
+D:\git\dz1\dz\bin\Debug\dz.exe.config
+D:\git\dz1\dz\bin\Debug\dz.exe
+D:\git\dz1\dz\bin\Debug\dz.pdb
+D:\git\dz1\dz\obj\Debug\dz.csprojAssemblyReference.cache
+D:\git\dz1\dz\obj\Debug\dz.csproj.CoreCompileInputs.cache
+D:\git\dz1\dz\obj\Debug\dz.exe
+D:\git\dz1\dz\obj\Debug\dz.pdb
